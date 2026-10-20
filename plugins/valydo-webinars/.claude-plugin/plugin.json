@@ -1,0 +1,9 @@
+{
+  "name": "valydo-webinars",
+  "displayName": "Valydo · Webinars",
+  "version": "1.1.0",
+  "description": "Crea tu funnel de webinar (clase gratuita en directo) en Systeme.io a partir de la plantilla de Valydo: Claude te entrevista, escribe el copy de las 3 páginas, aplica tus colores con el conector de Systeme y te guía en el resto.",
+  "author": {
+    "name": "Escuela Valydo"
+  }
+}
