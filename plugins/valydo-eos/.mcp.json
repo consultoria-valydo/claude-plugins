@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "eos-valydo": {
+      "type": "http",
+      "url": "https://eos.valydo.workers.dev/mcp"
+    }
+  }
+}
