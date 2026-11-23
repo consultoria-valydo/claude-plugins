@@ -1,6 +1,6 @@
 # Valydo · EOS
 
-Eos es el Mentor Digital de Escuela Valydo: te acompaña con el método Valydo para vender tu conocimiento online.
+Eos es tu Consultor de Crecimiento con IA de Escuela Valydo: te acompaña con el método Valydo para vender tu conocimiento online.
 
 ## Requisitos
 
